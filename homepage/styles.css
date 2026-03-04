@@ -1,0 +1,261 @@
+.nav-fill {
+    width: 100%;
+    display: flex;
+    background-color: #AD4758;
+}
+
+.navbar {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.nav-link {
+    color: #EACCD1;
+}
+
+.nav-link:hover {
+    color: #53222A;
+}
+
+.nav-link.active {
+    border-bottom: 4px solid #F8EDEF;
+    height: 100%;
+    color: #F8EDEF;
+}
+
+body {
+    background-color: #DDACB4;
+}
+
+#essay {
+    text-indent: 50px;
+    width: 60%;
+    margin: auto;
+    font-size: 17px;
+    padding-bottom: 60px;
+}
+
+#essay-heading {
+    color: #53222A;
+    text-align: center;
+    padding-top: 80px;
+    font-family: "Bowlby One SC", sans-serif;
+    font-size: 60px;
+    text-shadow:
+        -2px -2px 0 #EACCD1,
+        2px -2px 0 #EACCD1,
+        -2px 2px 0 #EACCD1,
+        2px 2px 0 #EACCD1;
+}
+
+#info {
+    color: #53222A;
+    text-align: center;
+    padding-top: 10px;
+    font-family: roboto mono;
+    padding-bottom: 40px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+#essay-title {
+    color: #53222A;
+    padding-bottom: 20px;
+    margin: auto;
+    width: 60%;
+    padding-top: 40px;
+    font-family: "Bowlby One SC", sans-serif;
+    text-align: center;
+    font-size: 35px;
+    text-shadow:
+        -2px -2px 0 #EACCD1,
+        2px -2px 0 #EACCD1,
+        -2px 2px 0 #EACCD1,
+        2px 2px 0 #EACCD1;
+}
+
+hr.dotted {
+    border-top: 6px dotted;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+
+#essay-img {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+#essay-image {
+    width: 50%;
+}
+
+.cover-container {
+    position: relative;
+    text-align: center;
+    color: #53222A;
+    font-family: "Bowlby One SC", sans-serif;
+    font-weight: bold;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.home-heading h1 {
+    font-size: 100px;
+}
+
+.home-heading {
+    font-size: 30px;
+    text-shadow:
+        -2px -2px 0 #EACCD1,
+        2px -2px 0 #EACCD1,
+        -2px 2px 0 #EACCD1,
+        2px 2px 0 #EACCD1;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#cover-image {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    height: auto;
+    opacity: 65%;
+}
+
+.container-cards {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.card-img-top {
+    margin: auto;
+    margin-top: 10px;
+    height: 180px;
+    width: 90%;
+}
+
+.card {
+    margin: auto;
+    background-color: #F8EDEF;
+}
+
+.card-body {
+    height: 280px;
+}
+
+.card-body .btn {
+    margin-top: 0;
+    background-color: #742F3B;
+    border-color: #742F3B;
+}
+
+.resources {
+    color: #53222A;
+    font-family: "Bowlby One SC", sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 35px;
+    text-shadow:
+        -2px -2px 0 #EACCD1,
+        2px -2px 0 #EACCD1,
+        -2px 2px 0 #EACCD1,
+        2px 2px 0 #EACCD1;
+}
+
+#history-heading {
+    color: #53222A;
+    font-family: "Bowlby One SC", sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    text-shadow:
+        -2px -2px 0 #EACCD1,
+        2px -2px 0 #EACCD1,
+        -2px 2px 0 #EACCD1,
+        2px 2px 0 #EACCD1;
+}
+
+
+.history-image {
+    width: 90%;
+}
+
+.history {
+    margin-top: 50px;
+}
+
+
+.left {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 7%
+}
+
+.right {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 8%;
+}
+
+.history-section {
+    margin-bottom: 80px;
+    margin-top: 70px;
+}
+
+#history-info {
+    color: #53222A;
+    text-align: center;
+    font-family: roboto mono;
+    padding-bottom: 30px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+
+.sources img {
+    height: 190px;
+}
+
+.sources {
+    height: 130px;
+}
+
+.map {
+    padding-top: 30px;
+    display: block;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+#map-heading {
+    color: #53222A;
+    font-family: "Bowlby One SC", sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-shadow:
+        -2px -2px 0 #EACCD1,
+        2px -2px 0 #EACCD1,
+        -2px 2px 0 #EACCD1,
+        2px 2px 0 #EACCD1;
+}
+
+#map-info {
+    color: #53222A;
+    text-align: center;
+    font-family: roboto mono;
+    padding-bottom: 15px;
+    font-weight: 500;
+    font-size: 17px;
+}
